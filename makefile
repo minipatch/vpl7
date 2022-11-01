@@ -1,5 +1,5 @@
 all:
 	g++ *.cpp -o main.out
     
-clean:
+clearmake:
 	$(RM) -r main.out
